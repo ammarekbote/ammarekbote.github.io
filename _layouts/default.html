@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+      .fa { padding: 10px; font-size: 15px; width: 25px; text-align: center; text-decoration: none; margin: 3px 1px; }
+      .fa:hover { opacity: 0.7; }
+      .fa-github { background: #333; color: white; }
+      .fa-linkedin { background: #007bb5; color: white; }
+      .fa-medium { background: #000; color: white; }
+      .fa-graduation-cap { background: #4caf50; color: white; }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Ammar Ekbote</h1>
+        <p>Expert Leader in Cloud Security & Distributed Systems</p>
+        <a href="https://github.com/ammarekbote" class="fa fa-github"></a>
+        <a href="https://www.linkedin.com/in/ammarekbote" class="fa fa-linkedin"></a>
+        <a href="https://medium.com/@ammarekbote" class="fa fa-medium"></a>
+        <a href="https://scholar.google.com/citations?user=qZHt7N4AAAAJ" class="fa fa-graduation-cap"></a>
+        <p><br>
+          <a href="#about">About</a> |
+          <a href="#experience">Experience</a> |
+          <a href="#judging--mentoring">Judging & Mentoring</a> |
+          <a href="#patents--publications">Patents & Publications</a> |
+          <a href="#speaking">Speaking</a> |
+          <a href="#awards">Awards</a>
+        </p>
+      </header>
+      <section>
+        {{ content }}
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+  </body>
+</html>

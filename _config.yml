@@ -1,0 +1,7 @@
+name: Ammar Ekbote
+title: Ammar Ekbote | Cloud Security & Distributed Systems Expert
+description: Expert Leader in Cloud Security and Distributed Systems with 10+ patents and extensive experience in building resilient, secure infrastructure.
+markdown: kramdown
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
