@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+.wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
 header {
   padding-bottom: 20px;
 }
