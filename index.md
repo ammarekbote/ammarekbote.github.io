@@ -38,7 +38,7 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 ## Judging & Mentoring
 
 *   **[SC Awards 2026](https://www.scworld.com/sc-awards-meet-the-judges-2026)**: Industry Expert Judge evaluating cybersecurity initiatives and product innovations.
-*   **[Business Intelligence Group (BIG) Innovation Awards 2026](https://www.bintelligence.com/awards-judges)**: Judge evaluating technical expertise and professional accomplishments.
+*   **[Business Intelligence Group (BIG) Innovation Awards 2026](https://www.bintelligence.com/judge/ammar-ekbote)**: Judge evaluating technical expertise and professional accomplishments.
 *   **[IFIP SEC 2026](https://ifipsec.org/2026/)**: Technical Program Committee Member for the 41st International Conference on Information Security and Privacy Protection.
 *   **[ICAIE 2026](https://www.icaie.org/)**: Technical Committee Member evaluating multidisciplinary AI research.
 *   **[City of Seattle Hackathon (PACT-Athon) 2025](https://www.seattle.gov/tech)**: Judge & "We Build With AI" Resident Expert.
