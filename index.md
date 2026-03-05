@@ -39,13 +39,15 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 
 *   **[SC Awards 2026](https://www.scworld.com/sc-awards-meet-the-judges-2026)**: Industry Expert Judge evaluating cybersecurity initiatives and product innovations.
 *   **[Business Intelligence Group (BIG) Innovation Awards 2026](https://www.bintelligence.com/judge/ammar-ekbote)**: Judge evaluating technical expertise and professional accomplishments.
-*   **[IFIP SEC 2026](https://ifipsec.org/2026/)**: Technical Program Committee Member for the 41st International Conference on Information Security and Privacy Protection.
+*   **[IFIP SEC 2026](https://ifipsec.org/)**: Technical Program Committee Member for the 41st International Conference on Information Security and Privacy Protection.
 *   **[ICAIE 2026](https://www.icaie.org/)**: Technical Committee Member evaluating multidisciplinary AI research.
 *   **[City of Seattle Hackathon (PACT-Athon) 2025](https://www.seattle.gov/tech)**: Judge & "We Build With AI" Resident Expert.
 *   **[DubHacks 2025](https://dubhacks.co/)**: Industry Judge for the largest collegiate hackathon in the Pacific Northwest.
-*   **[Richmond Homebase AI Hackathon 2025](https://www.richmond.ca/)**: Judge & Mentor appointed by the City of Richmond and the Mayor’s office.
-*   **[Hacktoberfest 2025](https://hacktoberfest.com/)**: Online Judge for global open-source finalists.
-*   **[Cloud Security Alliance (CSA)](https://cloudsecurityalliance.org/)**: Peer Reviewer for industry standards and white papers.
+*   **[Richmond Homebase AI Hackathon 2025](https://www.linkedin.com/posts/kailalove_the-richmond-homebase-hackathon-was-a-massive-activity-7375968506040950785-7A_u)**: Judge & Mentor. Contributions recognized by the **Mayor of Richmond** with a [**Certificate of Appreciation**](https://drive.google.com/file/d/1IvOqCE3txQDPWxiPb9Nqxw68WNFdKulp/view?usp=sharing).
+*   **[Hacktoberfest 2025](https://lu.ma/dgweypvn)**: Online Judge for global open-source finalists.
+*   **[Cloud Security Alliance (CSA)](https://cloudsecurityalliance.org/)**: Peer Reviewer for industry standards and white papers, including:
+    *   **[Healthcare Confidential Computing and the Trusted Execution Environment](https://cloudsecurityalliance.org/artifacts/healthcare-confidential-computing-and-the-trusted-execution-environment)**
+    *   **[Cybersecurity and the Data Lifecycle](https://cloudsecurityalliance.org/artifacts/cybersecurity-and-the-data-lifecycle)**
 
 ---
 
@@ -66,7 +68,6 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 *Full list available on [Google Scholar](https://scholar.google.com/citations?user=qZHt7N4AAAAJ) and [Justia Patents](https://patents.justia.com/inventor/ammar-g-ekbote).*
 
 ### **Publications**
-*   **[Two Tier Disk I/O Scheduling in Virtualized Environment](https://scholar.google.com/citations?view_op=view_citation&citation_for_view=qZHt7N4AAAAJ:u-x6o8ySG0sC)**: Award-winning research on hypervisor-level I/O aggregation.
 *   **[Engineering Habits: Building Resilient Software](https://dzone.com/articles/engineering-habits-building-resilient-software)**: Technical article on DZone.
 *   **[GCP Storage Bucket Management with Terraform](https://medium.com/@ammarekbote/create-an-encrypted-gcp-storage-bucket-using-terraform-and-use-the-bucket-to-manage-terraform-state-d9caf41e0c4b)**: Technical guide on Medium.
 
@@ -77,7 +78,7 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 *   **[NHIcon 2026](https://aembit.io/nhicon/)**: Keynote - "The Rise of Agentic AI Security: MCP Monitoring using eBPF."
 *   **[Scale To Zero Podcast (Ep 105)](https://www.scaletozero.com/episodes/ebpf-mcp-servers-and-the-kernel-level-future-of-ai-security-with-ammar-ekbote/)**: "eBPF, MCP Servers, and the Kernel-Level Future of AI Security."
 *   **[8th FTCNT Springer Conference](https://www.ftnct.com/keynote.php)**: Invited Speaker - "Secure AI Integration: Guardrails for Scaling Engineering Teams."
-*   **Cloud8 Summit 2026**: "Hands-on Azure MCP Server Setup and Use with Visual Studio Code."
+*   **[Cloud8 Summit 2026](https://www.cloudeight.ch/speakers)**: "Hands-on Azure MCP Server Setup and Use with Visual Studio Code."
 
 ---
 
@@ -85,8 +86,11 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 
 *   **HPE Nimble Innovation Award (2021)**: Native Archive of Nimble Snapshots to Amazon S3.
 *   **Amdocs Innovation Award**: Young Prod.G Competition Winner (2010).
-*   **First Prize Paper (2011)**: BITS GOA QUARK, for research on virtualized disk I/O scheduling.
-*   **Winner 'C' Coding**: MindSpark (COEP) Technical Event.
+*   **BITS Pilani Quark 2011**: First Prize in Paper Presentation (CS) at the annual national techno-management festival (K.K. Birla Goa Campus).
+*   **IIT Kanpur Techkriti 2011**: Prize Winner in the **Eureka** event (Annual Technology & Entrepreneurship festival).
+*   **MindSpark '10 (COEP)**: First Prize in **Code Junkie** (Annual Technical Event at College of Engineering, Pune).
+*   **VIT Vitality '09**: Third Prize in **C-ATHLON** (FE/SE Level coding competition).
+*   **VIT Mélange 2010**: First Prize in **Network Treasure Hunt** (Annual Techno-Cultural Event).
 
 ---
 
