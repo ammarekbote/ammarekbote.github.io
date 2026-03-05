@@ -11,7 +11,7 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 
 ## Experience
 
-### **[Pinterest](https://www.pinterest.com/)** | *Senior Software Engineer & Tech Lead* | 2024 – 2025
+### **[Pinterest](https://www.pinterest.com/)** | *Senior Software Engineer* | 2024 – 2025
 *   Architected and developed **RPP (Resource Provisioner Pipeline)**, a centralized service for deploying Pinterest’s global AWS infrastructure via Terraform.
 *   Implemented Dual Controls and Policy-as-Code checks to ensure infrastructure safety and security.
 *   Developed Drift Detection mechanisms to identify and remediate discrepancies in cloud environments.
