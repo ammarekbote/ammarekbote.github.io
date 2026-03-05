@@ -17,10 +17,10 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 *   Developed Drift Detection mechanisms to identify and remediate discrepancies in cloud environments.
 *   Advocated for granular breakglass mechanisms and workspace validation, enhancing security enforcements.
 
-### **[Lacework (Acquired by Fortinet)](https://www.fortinet.com/)** | *Staff Software Engineer* | 2021 – 2024
-*   Member of the Agent Team, focusing on deep-system observability and cloud-native security.
-*   Developed the **Node Collector for KSPM** (Kubernetes Security Posture Management) using eBPF for kernel-space monitoring.
+### **[Lacework (Acquired by Fortinet)](https://www.fortinet.com/)** | *Staff Software Engineer & Tech Lead* | 2021 – 2024
 *   Led the **Agentless Scanning** project, enabling vulnerability and secret scanning without persistent agents.
+    *   **Contributions**: [Terraform GCP Agentless Scanning Module](https://github.com/lacework/terraform-gcp-agentless-scanning) ([Registry](https://registry.terraform.io/modules/lacework/agentless-scanning/gcp/latest)), [Terraform Lacework Provider](https://github.com/lacework/terraform-provider-lacework) ([Registry](https://registry.terraform.io/providers/lacework/lacework/latest)).
+*   Member of the Agent Team, focusing on deep-system observability and cloud-native security.
 
 ### **[Nimble Storage (Acquired by HPE)](https://www.hpe.com/us/en/storage/nimble.html)** | *Staff Software Engineer* | 2015 – 2021
 *   Core contributor to NimbleOS, focusing on distributed storage logic.
