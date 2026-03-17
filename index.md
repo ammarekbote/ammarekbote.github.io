@@ -45,7 +45,7 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 *   **[DubHacks 2025](https://dubhacks.co/)**: Industry Judge for the largest collegiate hackathon in the Pacific Northwest.
 *   **[Richmond Homebase AI Hackathon 2025](https://www.linkedin.com/posts/kailalove_the-richmond-homebase-hackathon-was-a-massive-activity-7375968506040950785-7A_u)**: Judge & Mentor. Contributions recognized by the **Mayor of Richmond** with a [**Certificate of Appreciation**](https://drive.google.com/file/d/1IvOqCE3txQDPWxiPb9Nqxw68WNFdKulp/view?usp=sharing).
 *   **[Hacktoberfest 2025](https://lu.ma/dgweypvn)**: Online Judge for global open-source finalists.
-*   **[Cloud Security Alliance (CSA)](https://cloudsecurityalliance.org/)**: Peer Reviewer for industry standards and white papers, including:
+*   **[Cloud Security Alliance (CSA)](https://cloudsecurityalliance.org/)**: Contributor & Peer Reviewer for industry standards and white papers, including:
     *   **[Healthcare Confidential Computing and the Trusted Execution Environment](https://cloudsecurityalliance.org/artifacts/healthcare-confidential-computing-and-the-trusted-execution-environment)**
     *   **[Cybersecurity and the Data Lifecycle](https://cloudsecurityalliance.org/artifacts/cybersecurity-and-the-data-lifecycle)**
 
@@ -68,6 +68,7 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 *Full list available on [Google Scholar](https://scholar.google.com/citations?user=qZHt7N4AAAAJ) and [Justia Patents](https://patents.justia.com/inventor/ammar-g-ekbote).*
 
 ### **Publications**
+*   **[Cybersecurity and the Data Lifecycle](https://cloudsecurityalliance.org/artifacts/cybersecurity-and-the-data-lifecycle)**: Industry white paper contributor for Cloud Security Alliance (CSA).
 *   **[Engineering Habits: Building Resilient Software](https://dzone.com/articles/engineering-habits-building-resilient-software)**: Technical article on DZone.
 *   **[GCP Storage Bucket Management with Terraform](https://medium.com/@ammarekbote/create-an-encrypted-gcp-storage-bucket-using-terraform-and-use-the-bucket-to-manage-terraform-state-d9caf41e0c4b)**: Technical guide on Medium.
 *   **[Beyond IAM: Implementing a Zero-Trust Data Plane With Service Account Identity Federation in GCP](https://dzone.com/articles/gcp-zero-trust-data-plane-federation)**: Technical article on DZone.
