@@ -11,27 +11,27 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 
 ## Experience
 
-### **[Pinterest](https://www.pinterest.com/)** | *Senior Software Engineer* | 2024 – 2025
-*   Architected and developed **RPP (Resource Provisioner Pipeline)**, a centralized service for deploying Pinterest’s global AWS infrastructure via Terraform.
-*   Implemented Dual Controls and Policy-as-Code checks to ensure infrastructure safety and security.
-*   Developed Drift Detection mechanisms to identify and remediate discrepancies in cloud environments.
+### **[Pinterest](https://www.pinterest.com/)** | *Senior Software Engineer* | 2024 – 2026
+*   Architected and developed **RPP (Resource Provisioner Pipeline)**, a centralized service for deploying Pinterest’s global AWS infrastructure (VPC, IAM, EKS, DNS) via Terraform.
+*   Drove the **Hashicorp dependency removal** initiative, ensuring long-term architectural independence and efficiency.
+*   Implemented Dual Controls, Policy-as-Code checks, and Drift Detection to ensure infrastructure safety and zero-trust security.
 *   Advocated for granular breakglass mechanisms and workspace validation, enhancing security enforcements.
 
 ### **[Lacework (Acquired by Fortinet)](https://www.fortinet.com/)** | *Staff Software Engineer & Tech Lead* | 2021 – 2024
 *   Led the **Agentless Scanning** project, enabling vulnerability and secret scanning without persistent agents.
-    *   **Contributions**: [Terraform GCP Agentless Scanning Module](https://github.com/lacework/terraform-gcp-agentless-scanning) ([Registry](https://registry.terraform.io/modules/lacework/agentless-scanning/gcp/latest)), [Terraform Lacework Provider](https://github.com/lacework/terraform-provider-lacework) ([Registry](https://registry.terraform.io/providers/lacework/lacework/latest)).
-*   Member of the Agent Team, focusing on deep-system observability and cloud-native security.
+    *   **Impact**: Achieved over **1.15 million downloads** across AWS, GCP, and Azure; solution named **"Best Cloud Workload Protection Solution"** at the 2025 SC Awards.
+    *   **Contributions**: [Terraform GCP Agentless Scanning Module](https://github.com/lacework/terraform-gcp-agentless-scanning) and [Terraform Lacework Provider](https://github.com/lacework/terraform-provider-lacework).
+*   Member of the Agent Team, implementing File Integrity Monitoring (FIM) and Kubernetes Node Collectors for deep-system observability.
 
-### **[Nimble Storage (Acquired by HPE)](https://www.hpe.com/us/en/storage/nimble.html)** | *Staff Software Engineer* | 2015 – 2021
-*   Core contributor to NimbleOS, focusing on distributed storage logic.
-*   Engineered **Synchronous Replication (RPO 0)** and high-availability systems for enterprise storage arrays.
-*   Optimized the read path for **Fractal Tree Indexing**, achieving superior amortized write costs.
-*   Awarded the HPE Nimble Innovation Award (2021) for "Native Archive of Nimble Snapshots to Amazon S3."
+### **[Nimble Storage (Acquired by HPE)](https://www.hpe.com/us/en/storage/nimble.html)** | *Staff Software Engineer* | 2014 – 2021
+*   Spearheaded development of the **Persistent Fractal Tree Library** for HPE Alletra MP X10000 series (NVIDIA-certified for AI workloads), delivering up to **6x performance advantage**.
+*   Engineered **Synchronous Replication (RPO 0)** and Peer Persistence systems, guaranteeing 99.9999% availability.
+*   Developed a coredump analysis capability that extracted critical data from 16GB+ dumps, reducing troubleshooting time and improving customer experience.
 
 ### **[Qlogic (Acquired by Marvell)](https://www.marvell.com/)** | *Senior Software Engineer* | 2011 – 2013
-*   Developed drivers and firmware for storage Converged Network Adapters (CNA).
-*   Optimized memory to support 2k socket sizes, significantly increasing concurrent connection capacity.
-*   Implemented T10 Protection Information (T10-DIF) for end-to-end data integrity.
+*   Developed firmware and refactored egress paths for high-performance iSCSI adapters (Hilda ASIC architecture).
+*   Optimized memory to support **8k SCSI socket connections**, significantly increasing concurrent capacity for virtualized data centers.
+*   Implemented T10 Data Integrity Field (DIF) to prevent silent data corruption in mission-critical storage connectivity.
 
 ---
 
@@ -70,6 +70,7 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 ### **Publications**
 *   **[Engineering Habits: Building Resilient Software](https://dzone.com/articles/engineering-habits-building-resilient-software)**: Technical article on DZone.
 *   **[GCP Storage Bucket Management with Terraform](https://medium.com/@ammarekbote/create-an-encrypted-gcp-storage-bucket-using-terraform-and-use-the-bucket-to-manage-terraform-state-d9caf41e0c4b)**: Technical guide on Medium.
+*   **[Beyond IAM: Implementing a Zero-Trust Data Plane With Service Account Identity Federation in GCP](https://dzone.com/articles/gcp-zero-trust-data-plane-federation)**: Technical article on DZone.
 
 ---
 
@@ -84,10 +85,14 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 
 ## Awards
 
-*   **HPE Nimble Innovation Award (2021)**: Native Archive of Nimble Snapshots to Amazon S3.
-*   **Amdocs Innovation Award**: Young Prod.G Competition Winner (2010).
+*   **SC Awards 2025**: **Best Cloud Workload Protection Solution** (Lacework FortiCNAPP) – Lead developer for agentless architecture.
+*   **HPE Nimble Innovation Award (2021)**: First Place for "Lambda on S3 on Nimble Array."
+*   **HPE Storage Business Division (HPESBD) Innovation Program (FY18)**: Recognition for Native Archival support from Nimble to AWS S3.
+*   **Mayor of Richmond Certificate of Appreciation (2025)**: For mentorship and judging contributions at the Homebase AI Hackathon.
+*   **Amdocs Innovation Award (2010)**: First Prize in Young Prod.G Competition (1,00,000 INR) for Auto Web Service Generator.
 *   **BITS Pilani Quark 2011**: First Prize in Paper Presentation (CS) at the annual national techno-management festival (K.K. Birla Goa Campus).
 *   **IIT Kanpur Techkriti 2011**: Prize Winner in the **Eureka** event (Annual Technology & Entrepreneurship festival).
+*   **Sakal India Foundation**: Recipient of an interest-free loan scholarship for academic excellence.
 *   **MindSpark '10 (COEP)**: First Prize in **Code Junkie** (Annual Technical Event at College of Engineering, Pune).
 *   **VIT Vitality '09**: Third Prize in **C-ATHLON** (FE/SE Level coding competition).
 *   **VIT Mélange 2010**: First Prize in **Network Treasure Hunt** (Annual Techno-Cultural Event).
@@ -97,4 +102,4 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 ## Education
 
 *   **[North Carolina State University](https://www.ncsu.edu/)** | *Master of Science in Computer Science* | GPA: 4.11
-*   **[Pune University](https://www.unipune.ac.in/)** | *Bachelor of Engineering in Computer Engineering* | Graduated with top honors
+*   **[Pune Institute of Computer Technology (PICT)](https://pict.edu/)** | *Bachelor of Engineering in Computer Engineering* | Graduated with top honors
