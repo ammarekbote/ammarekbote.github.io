@@ -92,15 +92,16 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 
 *   **SC Awards 2025**: **Best Cloud Workload Protection Solution** (Lacework FortiCNAPP) – Lead developer for agentless architecture.
 *   **HPE Nimble Innovation Award (2021)**: First Place for "Lambda on S3 on Nimble Array."
-*   **HPE Storage Business Division (HPESBD) Innovation Program (FY18)**: Recognition for Native Archival support from Nimble to AWS S3.
+*   **HPE Storage Business Division (HPESBD) Innovation Program (FY18)**: Recognition for [**Native Archival support**](https://drive.google.com/file/d/1UK7T7Q0p-QJI7S81OlAXLfZQ3ZZX15KS/view?usp=drive_link) from Nimble to AWS S3.
+*   **HPE Inventor Award (2018)**: [**Recognition**](https://drive.google.com/file/d/1UQsxORixfuFtopvpJabX_JWjRcJAO35U/view?usp=drive_link) for contributions to the patent portfolio.
 *   **Mayor of Richmond Certificate of Appreciation (2025)**: For mentorship and judging contributions at the Homebase AI Hackathon.
 *   **Amdocs Innovation Award (2010)**: First Prize in Young Prod.G Competition (1,00,000 INR) for Auto Web Service Generator.
-*   **BITS Pilani Quark 2011**: First Prize in Paper Presentation (CS) at the annual national techno-management festival (K.K. Birla Goa Campus).
-*   **IIT Kanpur Techkriti 2011**: Prize Winner in the **Eureka** event (Annual Technology & Entrepreneurship festival).
+*   **BITS Pilani Quark 2011**: First Prize in [**Paper Presentation (CS)**](https://drive.google.com/file/d/15n3pk_wPwVOEArlv8EmNe-Aex3mcnPix/view?usp=drive_link) at the annual national techno-management festival (K.K. Birla Goa Campus).
+*   **IIT Kanpur Techkriti 2011**: Prize Winner in the [**Eureka**](https://drive.google.com/file/d/1j_XTbrUvEzZ4L6CXqvVHluzt10tUooYj/view?usp=drive_link) event (Annual Technology & Entrepreneurship festival).
 *   **Sakal India Foundation**: Recipient of an interest-free loan scholarship for academic excellence.
-*   **MindSpark '10 (COEP)**: First Prize in **Code Junkie** (Annual Technical Event at College of Engineering, Pune).
-*   **VIT Vitality '09**: Third Prize in **C-ATHLON** (FE/SE Level coding competition).
-*   **VIT Mélange 2010**: First Prize in **Network Treasure Hunt** (Annual Techno-Cultural Event).
+*   **MindSpark '10 (COEP)**: First Prize in [**Code Junkie**](https://drive.google.com/file/d/1_RGjjxF1LjmejDr3hFemUPaCenVy1DiJ/view?usp=drive_link) (Annual Technical Event at College of Engineering, Pune).
+*   **VIT Vitality '09**: Third Prize in [**C-ATHLON**](https://drive.google.com/file/d/1iAy9E_Q15oH6e34AAxs6OBr1Rzj3r5g3/view?usp=drive_link) (FE/SE Level coding competition).
+*   **VIT Mélange 2010**: First Prize in [**Network Treasure Hunt**](https://drive.google.com/file/d/1_RGjjxF1LjmejDr3hFemUPaCenVy1DiJ/view?usp=drive_link) (Annual Techno-Cultural Event).
 
 ---
 
