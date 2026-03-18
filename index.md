@@ -63,7 +63,7 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 3.  **[US 12,375,573](https://patents.justia.com/patent/12375573)**: Container event monitoring using kernel space communication (2025).
 4.  **[US 12,368,746](https://patents.justia.com/patent/12368746)**: Modular agentless scanning of cloud workloads (2025).
 5.  **[US 12,130,878](https://patentimages.storage.googleapis.com/62/a5/03/9e62d69a128106/US12130878.pdf)**: Deduplication of monitored communications data in a cloud environment (2024).
-6.  **[US 11,853,577](https://patents.justia.com/patent/11853577)**: Tree structure node compaction prioritization (2023).
+6.  **[US 11,853,577](https://patentimages.storage.googleapis.com/07/e7/0f/34935248858c70/US11853577.pdf)**: Tree structure node compaction prioritization (2023).
 7.  **[US 11,556,513](https://patentimages.storage.googleapis.com/e6/d0/7b/6ad87729755602/US11556513.pdf)**: Generating snapshots of a key-value index (2023).
 8.  **[US 11,461,299](https://patentimages.storage.googleapis.com/d3/f0/78/a883008a434679/US11461299.pdf)**: Key-value index with node buffers (2022).
 9.  **[US 10,732,860](https://patentimages.storage.googleapis.com/f1/3f/ac/ab8d1a05a4036f/US10732860.pdf)**: Recordation of an indicator representing a group of acknowledgements of data write requests (2020).
