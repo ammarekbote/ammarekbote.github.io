@@ -64,7 +64,7 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 4.  **[US 12,368,746](https://patents.justia.com/patent/12368746)**: Modular agentless scanning of cloud workloads (2025).
 5.  **[US 12,130,878](https://patentimages.storage.googleapis.com/62/a5/03/9e62d69a128106/US12130878.pdf)**: Deduplication of monitored communications data in a cloud environment (2024).
 6.  **[US 11,853,577](https://patents.justia.com/patent/11853577)**: Tree structure node compaction prioritization (2023).
-7.  **[US 11,556,513](https://patents.justia.com/patent/11556513)**: Generating snapshots of a key-value index (2023).
+7.  **[US 11,556,513](https://patentimages.storage.googleapis.com/e6/d0/7b/6ad87729755602/US11556513.pdf)**: Generating snapshots of a key-value index (2023).
 8.  **[US 11,461,299](https://patents.justia.com/patent/11461299)**: Key-value index with node buffers (2022).
 9.  **[US 10,732,860](https://patents.justia.com/patent/10732860)**: Recordation of an indicator representing a group of acknowledgements of data write requests (2020).
 10. **[US 2020/0167238](https://patentimages.storage.googleapis.com/92/fc/19/9782118d2954b3/US20200167238A1.pdf)**: Snapshot format for object-based storage (2020).
