@@ -58,16 +58,17 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 ## Patents & Publications
 
 ### **Patents**
-1.  **[US 12,513,221](https://patents.justia.com/patent/12513221)**: Anomaly-based on-demand collection of data by an agent for a data platform (2025).
-2.  **[US 12,375,573](https://patents.justia.com/patent/12375573)**: Container event monitoring using kernel space communication (2025).
-3.  **[US 12,368,746](https://patents.justia.com/patent/12368746)**: Modular agentless scanning of cloud workloads (2025).
-4.  **[US 12,130,878](https://patents.justia.com/patent/12130878)**: Deduplication of monitored communications data in a cloud environment (2024).
-5.  **[US 11,792,284](https://patents.justia.com/patent/11792284)**: Using data transformations for monitoring a cloud compute environment (2023).
-6.  **[US 12,126,488](https://patents.justia.com/patent/12126488)**: Network switch stack failover configuration management (2024).
-7.  **[US 12,368,736](https://patents.justia.com/patent/12368736)**: Resolving the disparate impact of security exploits to resources within a resource group (2025).
-8.  **[US 11,849,000](https://patents.justia.com/patent/11849000)**: Using real-time monitoring to inform static analysis (2023).
-9.  **[US 11,556,513](https://patents.justia.com/patent/11556513)**: Generating snapshots of a key-value index (2023).
-10. **[US 11,461,299](https://patents.justia.com/patent/11461299)**: Key-value index with node buffers (2022).
+1.  **[US 11,792,284](https://patents.justia.com/patent/11792284)**: Using data transformations for monitoring a cloud compute environment (2023).
+2.  **[US 12,513,221](https://patents.justia.com/patent/12513221)**: Anomaly-based on-demand collection of data by an agent for a data platform (2025).
+3.  **[US 12,375,573](https://patents.justia.com/patent/12375573)**: Container event monitoring using kernel space communication (2025).
+4.  **[US 12,368,746](https://patents.justia.com/patent/12368746)**: Modular agentless scanning of cloud workloads (2025).
+5.  **[US 12,130,878](https://patents.justia.com/patent/12130878)**: Deduplication of monitored communications data in a cloud environment (2024).
+6.  **[US 11,853,577](https://patents.justia.com/patent/11853577)**: Tree structure node compaction prioritization (2023).
+7.  **[US 11,556,513](https://patents.justia.com/patent/11556513)**: Generating snapshots of a key-value index (2023).
+8.  **[US 11,461,299](https://patents.justia.com/patent/11461299)**: Key-value index with node buffers (2022).
+9.  **[US 10,732,860](https://patents.justia.com/patent/10732860)**: Recordation of an indicator representing a group of acknowledgements of data write requests (2020).
+10. **[US 2020/0192582](https://patents.justia.com/patent/20200192582)**: Snapshot format for object-based storage (App. 16/226,197) (2020).
+11. **[US 2021/0406247](https://patents.justia.com/patent/20210406247)**: Searching key-value index with node buffers (App. 16/916,667) (2021).
 
 *Full list available on [Google Scholar](https://scholar.google.com/citations?user=qZHt7N4AAAAJ) and [Justia Patents](https://patents.justia.com/inventor/ammar-g-ekbote).*
 
