@@ -58,7 +58,7 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 ## Patents & Publications
 
 ### **Patents**
-1.  **[US 11,792,284](https://patents.justia.com/patent/11792284)**: Using data transformations for monitoring a cloud compute environment (2023).
+1.  **[US 11,792,284](https://patentimages.storage.googleapis.com/b4/bb/ee/ac7a856491504b/US11792284.pdf)**: Using data transformations for monitoring a cloud compute environment (2023).
 2.  **[US 12,513,221](https://patents.justia.com/patent/12513221)**: Anomaly-based on-demand collection of data by an agent for a data platform (2025).
 3.  **[US 12,375,573](https://patents.justia.com/patent/12375573)**: Container event monitoring using kernel space communication (2025).
 4.  **[US 12,368,746](https://patents.justia.com/patent/12368746)**: Modular agentless scanning of cloud workloads (2025).
