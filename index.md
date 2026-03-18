@@ -67,8 +67,8 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 7.  **[US 11,556,513](https://patents.justia.com/patent/11556513)**: Generating snapshots of a key-value index (2023).
 8.  **[US 11,461,299](https://patents.justia.com/patent/11461299)**: Key-value index with node buffers (2022).
 9.  **[US 10,732,860](https://patents.justia.com/patent/10732860)**: Recordation of an indicator representing a group of acknowledgements of data write requests (2020).
-10. **[US 2020/0192582](https://patents.justia.com/patent/20200192582)**: Snapshot format for object-based storage (App. 16/226,197) (2020).
-11. **[US 2021/0406247](https://patents.justia.com/patent/20210406247)**: Searching key-value index with node buffers (App. 16/916,667) (2021).
+10. **[US 11,263,181](https://patents.justia.com/patent/11263181)**: Snapshot format for object-based storage (2022).
+11. **[US 11,461,300](https://patents.justia.com/patent/11461300)**: Searching key-value index with node buffers (2022).
 
 *Full list available on [Google Scholar](https://scholar.google.com/citations?user=qZHt7N4AAAAJ) and [Justia Patents](https://patents.justia.com/inventor/ammar-g-ekbote).*
 
