@@ -62,7 +62,7 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 2.  **[US 12,513,221](https://patents.justia.com/patent/12513221)**: Anomaly-based on-demand collection of data by an agent for a data platform (2025).
 3.  **[US 12,375,573](https://patents.justia.com/patent/12375573)**: Container event monitoring using kernel space communication (2025).
 4.  **[US 12,368,746](https://patents.justia.com/patent/12368746)**: Modular agentless scanning of cloud workloads (2025).
-5.  **[US 12,130,878](https://patents.justia.com/patent/12130878)**: Deduplication of monitored communications data in a cloud environment (2024).
+5.  **[US 12,130,878](https://patentimages.storage.googleapis.com/62/a5/03/9e62d69a128106/US12130878.pdf)**: Deduplication of monitored communications data in a cloud environment (2024).
 6.  **[US 11,853,577](https://patents.justia.com/patent/11853577)**: Tree structure node compaction prioritization (2023).
 7.  **[US 11,556,513](https://patents.justia.com/patent/11556513)**: Generating snapshots of a key-value index (2023).
 8.  **[US 11,461,299](https://patents.justia.com/patent/11461299)**: Key-value index with node buffers (2022).
