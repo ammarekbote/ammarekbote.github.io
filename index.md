@@ -19,15 +19,14 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 
 ### **[Lacework (Acquired by Fortinet)](https://www.fortinet.com/)** | *Staff Software Engineer & Tech Lead* | 2021 – 2024
 *   Led the **Agentless Scanning** project as Technical Lead for a team of 5 engineers, shifting the industry standard from agent-based to an agentless-first architecture (Patent 12,368,746).
-    *   **Impact**: Achieved over **1.15 million downloads** across AWS, GCP, and Azure, adopted by over 1,000 global enterprise customers. 
-    *   **Awards & Acquisition**: Engineered the core detection logic and unified data plane powering the platform that won **"Best Cloud Workload Protection Solution"** at the 2025 SC Awards (delivering a 100:1 reduction in alert noise and 80% faster investigations). This work served as the primary technical catalyst for Fortinet’s $1B+ acquisition of Lacework.
+    *   **Impact**: Achieved over **1.15 million downloads** across [**AWS**](https://registry.terraform.io/modules/lacework/agentless-scanning/aws/latest), [**GCP**](https://registry.terraform.io/modules/lacework/agentless-scanning/gcp/latest), and [**Azure**](https://registry.terraform.io/modules/lacework/agentless-scanning/azure/latest), adopted by over 1,000 global enterprise customers. 
+    *   **Awards & Acquisition**: Engineered the core detection logic and unified data plane powering the platform that won [**"Best Cloud Workload Protection Solution"**](https://www.scworld.com/news/sc-award-winners-2025-fortinet-best-cloud-workload-protection-solution) at the 2025 SC Awards (delivering a 100:1 reduction in alert noise and 80% faster investigations). This work served as the primary technical catalyst for [**Fortinet’s acquisition of Lacework**](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2024/fortinet-completes-acquisition-of-lacework).
     *   **Contributions**: [Terraform GCP Agentless Scanning Module](https://github.com/lacework/terraform-gcp-agentless-scanning) and [Terraform Lacework Provider](https://github.com/lacework/terraform-provider-lacework).
-*   Pioneered the use of eBPF to move security from the application layer to the kernel. Developed kernel-space communication methods (Patent 12,375,573) for zero-lag runtime monitoring of Kubernetes and containerized environments.
 
 ### **[Nimble Storage (Acquired by HPE)](https://www.hpe.com/us/en/storage/nimble.html)** | *Staff Software Engineer* | 2014 – 2021
-*   Spearheaded development of the **Persistent Fractal Tree Library** for the HPE Alletra MP X10000 series. This architecture made it the world's first object storage platform to achieve **NVIDIA-Certified Storage validation** for large-scale AI clusters.
-*   Developed a proprietary **Key-value index with node buffers** (Patent 11,461,299), delivering a **60x performance breakthrough** for small object writes and enabling real-time data ingestion for AI RAG pipelines.
-*   Engineered **Synchronous Replication (RPO 0)** and Peer Persistence systems with complex control path state logic, guaranteeing **"six-nines" (99.9999%) availability** for enterprise-grade storage.
+*   Spearheaded development of the **Persistent Fractal Tree Library** for the HPE Alletra MP X10000 series. This architecture delivered [**twice the throughput and 80% lower latency**](https://community.hpe.com/t5/around-the-storage-block/hpe-alletra-storage-mp-x10000-unleashes-blazing-ai-performance/ba-p/7258695), making it the world's first [**NVIDIA-Certified Storage validation**](https://www.hpe.com/us/en/newsroom/blog-post/2026/03/hpe-alletra-storage-mp-x10000-becomes-first-nvidia-certified-storage-object-based-platform-for-enterprise-ai.html) object storage platform. The platform has achieved [**triple-digit revenue growth**](https://investors.hpe.com/~/media/Files/H/HP-Enterprise-IR/documents/q3-2025/q3-2025-earnings-transcript.pdf) with over 5,000 Alletra MP arrays shipped to-date.
+*   Developed a proprietary **Key-value index with node buffers** (Patent 11,461,299), delivering a [**60x performance breakthrough**](https://community.hpe.com/t5/around-the-storage-block/under-the-hood-hpe-alletra-storage-mp-x10000-architectural/ba-p/7232413) for small object writes and enabling real-time data ingestion for AI RAG pipelines.
+*   Engineered **Synchronous Replication (RPO 0)** and Peer Persistence systems with complex control path state logic, guaranteeing [**"six-nines" (99.9999%) availability**](https://nexstor.com/netapp-vs-nimble-the-differences-between-the-two-big-players/) for enterprise-grade storage.
 *   Developed a coredump analysis capability that extracted critical data from 16GB+ dumps, reducing troubleshooting time and improving customer experience.
 
 ### **[Qlogic (Acquired by Marvell)](https://www.marvell.com/)** | *Senior Software Engineer* | 2011 – 2013
@@ -93,7 +92,7 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 
 ## Awards
 
-*   **SC Awards 2025**: **Best Cloud Workload Protection Solution** (Lacework FortiCNAPP) – Lead developer for agentless architecture.
+*   **SC Awards 2025**: [**Best Cloud Workload Protection Solution**](https://www.scworld.com/news/sc-award-winners-2025-fortinet-best-cloud-workload-protection-solution) (Lacework FortiCNAPP) – Lead developer for agentless architecture.
 *   **HPE Nimble Innovation Award (2021)**: First Place for "Lambda on S3 on Nimble Array."
 *   **HPE Storage Business Division (HPESBD) Innovation Program (FY18)**: Recognition for [**Native Archival support**](https://drive.google.com/file/d/1UK7T7Q0p-QJI7S81OlAXLfZQ3ZZX15KS/view?usp=drive_link) from Nimble to AWS S3.
 *   **HPE Inventor Award (2018)**: [**Recognition**](https://drive.google.com/file/d/1UQsxORixfuFtopvpJabX_JWjRcJAO35U/view?usp=drive_link) for contributions to the patent portfolio.
