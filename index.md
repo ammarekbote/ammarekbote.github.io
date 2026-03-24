@@ -12,20 +12,22 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 ## Experience
 
 ### **[Pinterest](https://www.pinterest.com/)** | *Senior Software Engineer* | 2024 – 2026
-*   Architected and developed **RPP (Resource Provisioner Pipeline)**, a centralized service for deploying Pinterest’s global AWS infrastructure (VPC, IAM, EKS, DNS) via Terraform.
+*   Architected and developed **RPP (Resource Provisioner Pipeline)**, a centralized service for deploying Pinterest’s global AWS infrastructure (VPC, IAM, EKS, DNS) via Terraform, supporting a platform with over 500 million users.
+*   Achieved a **400% efficiency gain** by reducing a critical global infrastructure migration timeline from six months to two months.
 *   Drove the **Hashicorp dependency removal** initiative, ensuring long-term architectural independence and efficiency.
-*   Implemented Dual Controls, Policy-as-Code checks, and Drift Detection to ensure infrastructure safety and zero-trust security.
-*   Advocated for granular breakglass mechanisms and workspace validation, enhancing security enforcements.
+*   Implemented Dual Controls, Policy-as-Code checks, and Drift Detection to ensure absolute security consistency and zero-trust security.
 
 ### **[Lacework (Acquired by Fortinet)](https://www.fortinet.com/)** | *Staff Software Engineer & Tech Lead* | 2021 – 2024
-*   Led the **Agentless Scanning** project, enabling vulnerability and secret scanning without persistent agents.
-    *   **Impact**: Achieved over **1.15 million downloads** across AWS, GCP, and Azure; solution named **"Best Cloud Workload Protection Solution"** at the 2025 SC Awards.
+*   Led the **Agentless Scanning** project as Technical Lead for a team of 5 engineers, shifting the industry standard from agent-based to an agentless-first architecture (Patent 12,368,746).
+    *   **Impact**: Achieved over **1.15 million downloads** across AWS, GCP, and Azure, adopted by over 1,000 global enterprise customers. 
+    *   **Awards & Acquisition**: Engineered the core detection logic and unified data plane powering the platform that won **"Best Cloud Workload Protection Solution"** at the 2025 SC Awards (delivering a 100:1 reduction in alert noise and 80% faster investigations). This work served as the primary technical catalyst for Fortinet’s $1B+ acquisition of Lacework.
     *   **Contributions**: [Terraform GCP Agentless Scanning Module](https://github.com/lacework/terraform-gcp-agentless-scanning) and [Terraform Lacework Provider](https://github.com/lacework/terraform-provider-lacework).
-*   Member of the Agent Team, implementing File Integrity Monitoring (FIM) and Kubernetes Node Collectors for deep-system observability.
+*   Pioneered the use of eBPF to move security from the application layer to the kernel. Developed kernel-space communication methods (Patent 12,375,573) for zero-lag runtime monitoring of Kubernetes and containerized environments.
 
 ### **[Nimble Storage (Acquired by HPE)](https://www.hpe.com/us/en/storage/nimble.html)** | *Staff Software Engineer* | 2014 – 2021
-*   Spearheaded development of the **Persistent Fractal Tree Library** for HPE Alletra MP X10000 series (NVIDIA-certified for AI workloads), delivering up to **6x performance advantage**.
-*   Engineered **Synchronous Replication (RPO 0)** and Peer Persistence systems, guaranteeing 99.9999% availability.
+*   Spearheaded development of the **Persistent Fractal Tree Library** for the HPE Alletra MP X10000 series. This architecture made it the world's first object storage platform to achieve **NVIDIA-Certified Storage validation** for large-scale AI clusters.
+*   Developed a proprietary **Key-value index with node buffers** (Patent 11,461,299), delivering a **60x performance breakthrough** for small object writes and enabling real-time data ingestion for AI RAG pipelines.
+*   Engineered **Synchronous Replication (RPO 0)** and Peer Persistence systems with complex control path state logic, guaranteeing **"six-nines" (99.9999%) availability** for enterprise-grade storage.
 *   Developed a coredump analysis capability that extracted critical data from 16GB+ dumps, reducing troubleshooting time and improving customer experience.
 
 ### **[Qlogic (Acquired by Marvell)](https://www.marvell.com/)** | *Senior Software Engineer* | 2011 – 2013
@@ -109,4 +111,7 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 ## Education
 
 *   **[North Carolina State University](https://www.ncsu.edu/)** | *Master of Science in Computer Science* | GPA: 4.11
+    *   **Specialization**: Advanced data structures, networks, and storage.
+    *   **Honors**: Awarded a merit-based scholarship by the Sakal India Foundation.
 *   **[Pune Institute of Computer Technology (PICT)](https://pict.edu/)** | *Bachelor of Engineering in Computer Engineering* | Graduated with top honors
+    *   **Achievements**: Selected for the Amdocs Innovation Laboratory, winning first prize (1,00,000 INR) for an Auto Web Service Generator. Dreamzgroup undergraduate project won third prize at IIT Kanpur and second prize at BITS Goa.
