@@ -27,14 +27,12 @@
 }
 
 /* General improvements */
-a {
-  color: #007bff; /* Clear blue for visibility */
-  text-decoration: none;
+a strong {
+  color: #007bff; /* Ensure bold links in Awards/Patents stand out */
 }
 
-a:hover {
+a:hover strong {
   text-decoration: underline;
-  color: #0056b3;
 }
 
 h1, h2, h3 {
