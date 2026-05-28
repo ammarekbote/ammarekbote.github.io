@@ -96,8 +96,8 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 *   **HPE Nimble Innovation Award (2021)**: First Place for "Lambda on S3 on Nimble Array."
 *   **HPE Storage Business Division (HPESBD) Innovation Program (FY18)**: Recognition for [**Native Archival support**](https://drive.google.com/file/d/1UK7T7Q0p-QJI7S81OlAXLfZQ3ZZX15KS/view?usp=drive_link) from Nimble to AWS S3.
 *   **HPE Inventor Award (2018)**: [**Recognition**](https://drive.google.com/file/d/1UQsxORixfuFtopvpJabX_JWjRcJAO35U/view?usp=drive_link) for contributions to the patent portfolio.
-*   **Mayor of Richmond Certificate of Appreciation (2025)**: For mentorship and judging contributions at the Homebase AI Hackathon.
-*   **Amdocs Innovation Award (2010)**: First Prize in Young Prod.G Competition (1,00,000 INR) for Auto Web Service Generator.
+*   **Mayor of Richmond Certificate of Appreciation (2025)**: [**Recognition**](https://drive.google.com/file/d/1AfXtbm5Rbw8H0AaGSwUo0GvuF8SM8d1z/view?usp=sharing) for mentorship and judging contributions at the Homebase AI Hackathon.
+*   **Amdocs Innovation Award (2010)**: First Prize in Young Prod.G Competition (1,00,000 INR) for [**Auto Web Service Generator**](https://drive.google.com/file/d/1coTAaG5BdRGdNKylhwPw1GaXRqCeOve9/view?usp=sharing).
 *   **BITS Pilani Quark 2011**: First Prize in [**Paper Presentation (CS)**](https://drive.google.com/file/d/15n3pk_wPwVOEArlv8EmNe-Aex3mcnPix/view?usp=drive_link) at the annual national techno-management festival (K.K. Birla Goa Campus).
 *   **IIT Kanpur Techkriti 2011**: Prize Winner in the [**Eureka**](https://drive.google.com/file/d/1j_XTbrUvEzZ4L6CXqvVHluzt10tUooYj/view?usp=drive_link) event (Annual Technology & Entrepreneurship festival).
 *   **Sakal India Foundation**: Recipient of an interest-free loan scholarship for academic excellence.
@@ -109,7 +109,7 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 
 ## Education
 
-*   **[North Carolina State University](https://www.ncsu.edu/)** | *Master of Science in Computer Science* | GPA: 4.11
+*   **[North Carolina State University](https://www.ncsu.edu/)** | *Master of Science in Computer Science* | GPA: 4.0
     *   **Specialization**: Advanced data structures, networks, and storage.
     *   **Honors**: Awarded a merit-based scholarship by the Sakal India Foundation.
 *   **[Pune Institute of Computer Technology (PICT)](https://pict.edu/)** | *Bachelor of Engineering in Computer Engineering* | Graduated with top honors
