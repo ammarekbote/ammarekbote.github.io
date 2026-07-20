@@ -12,9 +12,8 @@ Ammar is also a Senior IEEE Member and frequently serves as a judge and technica
 ## Experience
 
 ### **[Pinterest](https://www.pinterest.com/)** | *Senior Software Engineer* | 2024 – 2026
-*   Architected and developed **RPP (Resource Provisioner Pipeline)**, a centralized service for deploying Pinterest’s global AWS infrastructure (VPC, IAM, EKS, DNS) via Terraform, supporting a platform with over 500 million users.
-*   Achieved a **400% efficiency gain** by reducing a critical global infrastructure migration timeline from six months to two months.
-*   Drove the **Hashicorp dependency removal** initiative, ensuring long-term architectural independence and efficiency.
+*   Technical lead for **RPP (Resource Provisioner Pipeline)**, a centralized service for deploying Pinterest’s global AWS infrastructure (VPC, IAM, EKS, DNS) via Terraform, supporting a platform with over 600 million users.
+*   Drove the **RPPv1 to RPPv2 migration** initiative, ensuring long-term architectural independence and efficiency.
 *   Implemented Dual Controls, Policy-as-Code checks, and Drift Detection to ensure absolute security consistency and zero-trust security.
 
 ### **[Lacework (Acquired by Fortinet)](https://www.fortinet.com/)** | *Staff Software Engineer & Tech Lead* | 2021 – 2024
